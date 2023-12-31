@@ -1,4 +1,4 @@
-const socket = io("https://chat-gsm9.onrender.com");
+const socket = io("");
 
 const form = document.querySelector("form");
 const m = document.getElementById("m");
